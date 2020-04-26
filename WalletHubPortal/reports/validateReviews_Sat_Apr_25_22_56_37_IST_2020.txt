@@ -1,0 +1,19 @@
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$     validateReviews-started     $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+---Test case execution started---validateReviews-started
+---INFO---launching application
+---INFO---Launching the applicaiton ...https://wallethub.com/profile/basavaraj28sn/reviews/
+---INFO---Application Launched Successfully..
+---INFO---Click on Login Link Text
+---INFO---Enter User Name
+---INFO---Enter Password
+---INFO---Click on Login Button Text
+---INFO---Click on Profile Reviews
+---INFO---Verify Reviews
+---INFO---inside after method from Class : testCases.ReviewsTest
+XXXXXXXXXXXXXXXXXXXXXXX     -E---N---D-     XXXXXXXXXXXXXXXXXXXXXX
+X
+---Test case execution End---ending the test -ended

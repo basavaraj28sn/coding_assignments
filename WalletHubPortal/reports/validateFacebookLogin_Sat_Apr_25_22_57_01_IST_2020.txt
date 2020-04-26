@@ -1,0 +1,21 @@
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$     validateFacebookLogin-started     $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+---Test case execution started---validateFacebookLogin-started
+---INFO---launching application
+---INFO---Launching the applicaiton ...https://www.facebook.com
+---INFO---Application Launched Successfully..
+---INFO---Enter User Name
+---INFO---Enter Password
+---INFO---Click on Login Button Text
+---INFO---Click on Create Post
+---INFO---Click on Enter Post Text
+---INFO---Click on Post Button
+---INFO---Click on profile picture
+---INFO---Verify Hello text posted on profile
+---INFO---inside after method from Class : testCases.FacebookTest
+XXXXXXXXXXXXXXXXXXXXXXX     -E---N---D-     XXXXXXXXXXXXXXXXXXXXXX
+X
+---Test case execution End---ending the test -ended

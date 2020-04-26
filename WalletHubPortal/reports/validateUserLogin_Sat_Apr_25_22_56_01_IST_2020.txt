@@ -1,0 +1,27 @@
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$     validateUserLogin-started     $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+---Test case execution started---validateUserLogin-started
+---INFO---launching application
+---INFO---Launching the applicaiton ...https://wallethub.com/profile/test-insurance-company-13732055i
+---INFO---Application Launched Successfully..
+---INFO---Click on Login Link Text
+---INFO---Enter User Name
+---INFO---Enter Password
+---INFO---Click on Login Button Text
+---INFO---Click To Scroll down
+---INFO---Verfiy Element Displayed
+---INFO---Check Element Displayedtrue
+---INFO---Move on to 4TH Star
+---INFO---Click on to 5TH Star
+---INFO---Click on DropDownlist
+---INFO---Select Health Insurance
+---INFO---Enter Review Comments
+---INFO---Click on Submit Button
+---INFO---Click on Continue Button
+---INFO---inside after method from Class : testCases.StarRatingTest
+XXXXXXXXXXXXXXXXXXXXXXX     -E---N---D-     XXXXXXXXXXXXXXXXXXXXXX
+X
+---Test case execution End---ending the test -ended

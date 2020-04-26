@@ -1,0 +1,5 @@
+driverUtils\ConfigFileReader.class
+starRatingTests\StarRatingTest.class
+driverUtils\Screenshots.class
+pageObjects\StarRatingPageObjects.class
+starRatingTests\BaseTest.class

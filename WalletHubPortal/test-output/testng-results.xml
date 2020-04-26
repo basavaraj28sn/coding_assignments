@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28682" started-at="2020-04-25T23:25:27 IST" finished-at="2020-04-25T23:25:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28682" started-at="2020-04-25T23:25:27 IST" finished-at="2020-04-25T23:25:56 IST">
+      <class name="testCases.FacebookTest">
+        <test-method status="PASS" signature="initializeGlobalValues()[pri:0, instance:testCases.FacebookTest@131276c2]" name="initializeGlobalValues" is-config="true" duration-ms="125" started-at="2020-04-25T23:25:27 IST" finished-at="2020-04-25T23:25:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeGlobalValues -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.FacebookTest@131276c2]" name="setup" is-config="true" duration-ms="3785" started-at="2020-04-25T23:25:27 IST" finished-at="2020-04-25T23:25:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="printMethod(org.testng.ITestContext)[pri:0, instance:testCases.FacebookTest@131276c2]" name="printMethod" is-config="true" duration-ms="0" started-at="2020-04-25T23:25:31 IST" finished-at="2020-04-25T23:25:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@56e8b606]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMethod -->
+        <test-method status="PASS" signature="validateFacebookLogin()[pri:0, instance:testCases.FacebookTest@131276c2]" name="validateFacebookLogin" duration-ms="22295" started-at="2020-04-25T23:25:31 IST" finished-at="2020-04-25T23:25:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFacebookLogin -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testCases.FacebookTest@131276c2]" name="tearDown" is-config="true" duration-ms="224" started-at="2020-04-25T23:25:53 IST" finished-at="2020-04-25T23:25:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFacebookLogin status=SUCCESS method=FacebookTest.validateFacebookLogin()[pri:0, instance:testCases.FacebookTest@131276c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.FacebookTest@131276c2]" name="tearDown" is-config="true" duration-ms="2337" started-at="2020-04-25T23:25:53 IST" finished-at="2020-04-25T23:25:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="saveReports()[pri:0, instance:testCases.FacebookTest@131276c2]" name="saveReports" is-config="true" duration-ms="0" started-at="2020-04-25T23:25:56 IST" finished-at="2020-04-25T23:25:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveReports -->
+      </class> <!-- testCases.FacebookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
